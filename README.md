@@ -134,19 +134,19 @@ set lr=5e-2, max_step=150, Invivo/Phantom
 #### Sample 3 frames reconstruction
 
 <p align="left">
-<img src='pic/recons_result_invivo1.png' width=800 height=600 /> 
+<img src='pic/recons_result_invivo1.jpg' width=800 height=600 /> 
 </p>
 
 <p align="left">
-<img src='pic/recons_result_invivo2.png' width=800 height=600 /> 
+<img src='pic/recons_result_invivo2.jpg' width=800 height=600 /> 
 </p>
 
 <p align="left">
-<img src='pic/recons_result_phantom1.png' width=800 height=600 /> 
+<img src='pic/recons_result_phantom1.jpg' width=800 height=600 /> 
 </p>
 
 <p align="left">
-<img src='pic/recons_result_phantom2.png' width=800 height=600 /> 
+<img src='pic/recons_result_phantom2.jpg' width=800 height=600 /> 
 </p>
 
 ### Citation
