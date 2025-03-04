@@ -151,8 +151,13 @@ set lr=5e-2, max_step=150, Invivo/Phantom
 
 ### Citation
 ```
-@inproceedings{
-
+@mastersthesis{姚冠 2023 基于深度学习的动态软组织三维重建方法研究 ,
+author={姚冠},
+title={ 基于深度学习的动态软组织三维重建方法研究 },
+school={电子科技大学},
+year={2023},
+type={硕士论文},
+month={},
 }
 ```
 
